@@ -1,4 +1,4 @@
-<h2 align="center">I'm Phúc Quí 👋</h2>
+<h2 align="center">I'm Phuc Qui 👋</h2>
 <h3 align="center">A passionate Developer and IT Staff from Vietnam 🌌</h3>
 
 ---
