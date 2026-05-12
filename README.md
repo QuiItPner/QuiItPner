@@ -1,5 +1,5 @@
-<h2 align="center">I'm Phuc Qui 👋</h2>
-<h3 align="center">A passionate Developer and IT Staff from Vietnam 🌌</h3>
+<h2 align="center">Hi there. I'm Phuc Qui 👋</h2>
+<h3 align="center">Helpdesk / IT Support & Web Tools from Vietnam 🌌</h3>
 
 ---
 
