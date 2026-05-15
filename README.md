@@ -9,6 +9,7 @@
 - 💡 **Interests:** Developing tools, Desktop apps, Web applications, Back-end Development
 - 🎯 **Goals:** Master Python, develop tools to support colleagues, achieve IELTS 6.5
 - 📚 **English:** VSTEP B2 (R: 5.0, L: 5.0, S: 6.0, W: 7.0)
+- 🏅 **Claude Certificate:** [Verify](https://verify.skilljar.com/c/w7g74aevrgqu)
 
 ### 💼 Portfolio
 - [View My Portfolio Site →](https://iamphucqui-it-phunong.vercel.app/)
