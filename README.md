@@ -32,17 +32,17 @@
 
 ### 🚀 Featured Projects
 
+#### 🎓 University Projects
+- **[Job Portal Website](https://github.com/PhucQui003/product-management)**: NodeJS, ExpressJS, MongoDB, Pug.
+- **[E-Commerce Website](https://github.com/PhucQui003/job-portal)**: NodeJS, ExpressJS, MongoDB, Bootstrap.
+- **[English Center Management](https://github.com/PhucQui003/chatbot-integrated-education-center-management-system)**: .NET Framework, SQL Server, jQuery.
+
 #### 🏢 Phu Nong Projects
 - **[Phu Nong Map](https://github.com/QuiItPner/PhuNongMap)**: Mapping system built with HTML5, CSS3, Leaflet.js, Python, and Pandas. ([Live Demo](https://phu-nong-map.vercel.app/))
 - **[Biona Organic Landing Page](https://github.com/QuiItPner/PhuNong_Biona_Organic)**: Landing page developed with Bootstrap 5, jQuery. ([Live Demo](https://phu-nong-biona-organic.vercel.app/))
 - **[Raykat Landing Page](https://github.com/QuiItPner/Raykat_start_growth_final)**: Promotional page using HTML/CSS/JS. ([Live Demo](https://phunong-raykat-start-growth-final.vercel.app/))
 - **[Automatic Attendance Tracking Tool](https://github.com/QuiItPner/TNHHPhuNong_tuDongChamCong_tool)**: Built with Python, Tkinter, and Pillow.
 - **[Change IMG to Text](https://github.com/QuiItPner/ChangeImgToText)**: OCR tool using Python, EasyOCR, and PyTorch.
-
-#### 🎓 University Projects
-- **[Job Portal Website](https://github.com/PhucQui003/product-management)**: NodeJS, ExpressJS, MongoDB, Pug.
-- **[E-Commerce Website](https://github.com/PhucQui003/job-portal)**: NodeJS, ExpressJS, MongoDB, Bootstrap.
-- **[English Center Management](https://github.com/PhucQui003/chatbot-integrated-education-center-management-system)**: .NET Framework, SQL Server, jQuery.
 
 ### 📊 GitHub Stats
 <p align="center">
