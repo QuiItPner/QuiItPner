@@ -1,5 +1,7 @@
 <h2 align="center">Hi there. I'm Phuc Qui 👋</h2>
-<h3 align="center">Helpdesk / IT Support & Web Tools from Vietnam 🌌</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=33&pause=1500&color=00E8A0&center=true&vCenter=true&width=850&lines=Helpdesk+%2F+IT+Support+%26+Web+Tools+from+Vietnam+%F0%9F%8C%8C" alt="Typing SVG" /></a>
+</p>
 
 ---
 
