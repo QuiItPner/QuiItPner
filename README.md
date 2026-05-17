@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/PhucQui003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1&repeat=false&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there.+I'm+Phuc+Qui+%F0%9F%91%8B" alt="Hi there. I'm Phuc Qui" /></a>
+  <a href="https://github.com/PhucQui003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=30&duration=1&repeat=false&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there.+I'm+Phuc+Qui+%F0%9F%91%8B" alt="Hi there. I'm Phuc Qui" /></a>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1500&color=00E8A0&center=true&vCenter=true&width=850&lines=Helpdesk+%2F+IT+Support+%26+Web+Tools+from+Vietnam+%F0%9F%8C%8C" alt="Typing SVG" /></a>
