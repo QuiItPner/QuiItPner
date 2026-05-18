@@ -56,7 +56,7 @@
 
 ### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github.com/PhucQui003/PhucQui003/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/QuiItPner/QuiItPner/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ### 📫 Connect with me
