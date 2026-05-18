@@ -54,6 +54,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhucQui003&theme=radium" alt="Phuc Qui's GitHub Streak" />
 </p>
 
+### 🐍 Fun Fact: Commit Snake
+<div align="center">
+  <img src="https://github.com/PhucQui003/PhucQui003/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 ### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/phucqui2310/">
@@ -66,3 +71,7 @@
     <img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E8A0,100:00B4D8&height=100&section=footer" />
+</div>
